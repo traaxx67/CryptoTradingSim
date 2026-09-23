@@ -51,3 +51,6 @@ You should have received a copy of the GNU General Public License along with thi
 ## Disclaimer
 
 This tool is for educational purposes only. Modify your own save files at your own risk. The author is not responsible for any damage or loss of game progress.
+
+### Note
+This is a POC feel free to use this as a base and let me know what you guys come up with!
